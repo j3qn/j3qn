@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![q](https://komarev.com/ghpvc/?username=j3qn&label=Visitas&color=576beb)
 <!--
 **j3qn/j3qn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
